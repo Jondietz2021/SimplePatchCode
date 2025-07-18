@@ -20,7 +20,13 @@ class Antenna_Analyzer:
     """
     pass
 
-  def calc_
+  def calc_IsotropicRadiationIntensity(self):
+    """
+    Radiation Power divided by 4pi
+    """
+    pass
+
+
 
   
     
