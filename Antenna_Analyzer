@@ -11,7 +11,11 @@ class Antenna_Analyzer:
     r^2 times radiation density
     """
     pass
-  
+  def calc_RadiationPower(slef):
+    """
+    integrat the Poynting Vector over the entire surface area
+    """
+    pass
 
   
     
