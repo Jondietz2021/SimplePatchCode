@@ -1,21 +1,26 @@
 class Antenna_Analyzer:
   def __init__(self):
     pass
-  def calc_PoyntingVector(self):
+
+  def calc_RadiatedPowerDesinty(self):
     """
-    crossing Electric field with Magnetic field
+    (1/2) * (Re[E crossing H*])
     """
     pass
+
   def calc_RadiationIntensity(self):
     """
     r^2 times radiation density
     """
     pass
+
   def calc_RadiationPower(slef):
     """
-    integrat the Poynting Vector over the entire surface area
+    integrat the RadiatedPowerDesinty over the entire surface area (sin(theta)*dtheta*dphi)
     """
     pass
+
+  def calc_
 
   
     
