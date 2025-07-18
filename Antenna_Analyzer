@@ -1,3 +1,17 @@
 class Antenna_Analyzer:
   def __init__(self):
     pass
+  def calc_PoyntingVector(self):
+    """
+    crossing Electric field with Magnetic field
+    """
+    pass
+  def calc_RadiationIntensity(self):
+    """
+    r^2 times radiation density
+    """
+    pass
+  
+
+  
+    
