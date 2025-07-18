@@ -26,6 +26,12 @@ class Antenna_Analyzer:
     """
     pass
 
+  def calc_Directivity(self):
+    """
+    Radiation Intensity divided by Isotropic Radiation Intensity
+    """
+    pass
+
 
 
   
